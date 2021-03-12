@@ -2,8 +2,8 @@
 #include <string>
 #include <vector>
 //#include "group.h"
-//#include "worker.h"
-
+//#include "worker.h"// Aren
+// Aren Asulyan
 class Worker{
    public:
    Worker(const std::string n, const std::string sn, int by)
